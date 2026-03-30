@@ -1,8 +1,8 @@
 # Open Source Software Audit
 
 ## Student Details
-- Name: Akshit Singh  
-- Roll Number: 24BHI10078  
+- Name: Nikhil Gurnani  
+- Roll Number: 24BSA10209  
 
 ---
 
